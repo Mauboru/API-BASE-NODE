@@ -29,5 +29,5 @@ Para iniciar a aplicação com PM2:
 ```sh
 pm install -g pm2
 npx tsc
-pm2 start ecosystem.config.json
+pm2 start ecosystem.config.js
 ```
