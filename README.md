@@ -2,7 +2,7 @@
 
 ## 📦 Instalação
 
-1. Configure o seu package:
+1. Configure o seu package, se necessário:
    ```sh
    npm init
    ```
@@ -18,8 +18,8 @@
 
 ## 📂 Estrutura de Arquivos
 
-- `swagger.json` - Arquivo para documentação das rotas da API.
-- `ecosystem.config.json` - Arquivo de configuração para deploy, utilizado com PM2.
+- `swagger.json` - Arquivo para documentação das rotas da API. Para acessar é só colocar `/docs`
+- `ecosystem.config.js` - Arquivo de configuração para deploy, utilizado com PM2.
 
 ---
 
